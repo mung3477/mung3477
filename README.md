@@ -43,4 +43,8 @@ Here are some ideas to get you started:
 
 <br/>
 
+![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=mung3477)
+
+<br/>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mung3477&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
