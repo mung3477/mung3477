@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=AAFAD3&height=250&section=header&text=WELCOME!&animation=scaleIn&FontAlign=0&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=WELCOME!&animation=scaleIn&fontAlign=30&fontAlignY=40&fontSize=80" />
 
 ### Woosung Joung
 <a href="www.instagram.com/mung3477" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
