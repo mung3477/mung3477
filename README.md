@@ -9,8 +9,8 @@
 ## 😎 Woosung is a man who...
 
 - is studying computer science & engineering in Korea university (Sophomore)
-- is currently working on <a href="https://ap.police.go.kr/ap/main.do" target="_blank" title="대한민국 의무경찰" style="text-decoration: none">👨‍✈️Auxiliary Police</a> ~ 2022/05/11
-- is participating in <a href="https://github.com/ARA-developer/ARA" target="_blank" style="text-decoration: none">ARA</a> project
+- worked on <a href="https://ap.police.go.kr/ap/main.do" target="_blank" title="대한민국 의무경찰" style="text-decoration: none">👨‍✈️Auxiliary Police</a> ~ 2022/05/11
+- is participating in <a href="https://github.com/ARA-developer/ARA" target="_blank" style="text-decoration: none">ARA</a> project (2021/01 ~)
 
 <br/>
 
