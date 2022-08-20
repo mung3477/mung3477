@@ -14,6 +14,7 @@
 - worked on <a href="https://ap.police.go.kr/ap/main.do" target="_blank" title="대한민국 의무경찰" style="text-decoration: none">👨‍✈️Auxiliary Police</a> (2020/11 ~ 2022/05)
 - is participating in <a href="https://github.com/ARA-developer/ARA" target="_blank" style="text-decoration: none">ARA</a> project (2021/01 ~ )
 - is <a href="https://42seoul.kr/seoul42/main/view" target="_blank">42 seoul</a> cardet (2022/07 ~ )
+- is working in <a href="https://www.sigmate.io/" target="_blank" style="text-decoration: none">Sigmate</a> as a frontend developer (2022/07 ~ )
 
 <br/>
 
