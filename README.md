@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi There!&animation=scaleIn&fontAlign=30&fontAlignY=40&fontSize=80" />
-
 ### Woosung Joung
 <a href="https://instagram.com/mung3477" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://blog.naver.com/mung3477" target="_blank"><img src="https://img.shields.io/badge/NAVER Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
