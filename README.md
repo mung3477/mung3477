@@ -10,9 +10,10 @@
 
 - is studying computer science & engineering in Korea university (Junior)
 - worked on <a href="https://ap.police.go.kr/ap/main.do" target="_blank" title="대한민국 의무경찰" style="text-decoration: none">👨‍✈️Auxiliary Police</a> (2020/11 ~ 2022/05)
-- is participating in <a href="https://aradatabase-ba6d4.web.app" target="_blank" style="text-decoration: none">ARA</a> project (2021/01 ~ )
+- was participating in <a href="https://aradatabase-ba6d4.web.app" target="_blank" style="text-decoration: none">ARA</a> project (2021/01 ~ 2023/05)
 - was <a href="https://42seoul.kr/seoul42/main/view" target="_blank">42 seoul</a> cardet (2022/07 ~ 2023/01)
-- is working in <a href="https://www.sigmate.io/" target="_blank" style="text-decoration: none">Sigmate</a> as a cofounder, frontend developer (2022/07 ~ )
+- was working in <a href="https://www.sigmate.io/" target="_blank" style="text-decoration: none">Sigmate</a> as a cofounder, frontend developer (2022/07 ~ 2023/05)
+- is working in <a href="https://smoretalk.oopy.io/" target="_blank" style="text-decoration: non">Smoretalk</a> as a frontend developer (2023/05 ~ )
 
 <br/>
 
