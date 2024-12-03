@@ -9,7 +9,7 @@
 ## 😎 Woosung is a man who...
 
 - is studying computer science & engineering in Korea university (Junior)
-- served as an auxiliary police in <a href="https://ap.police.go.kr/ap/main.do" target="_blank" title="대한민국 의무경찰" style="text-decoration: none">Korean National Police Agency</a> in  (2020/11 ~ 2022/05)
+- served as an auxiliary police in <a href="https://ap.police.go.kr/ap/main.do" target="_blank" title="대한민국 의무경찰" style="text-decoration: none">Korean National Police Agency</a> (2020/11 ~ 2022/05)
 - participated in the <a href="https://aradatabase-ba6d4.web.app" target="_blank" style="text-decoration: none">ARA</a> project (2021/01 ~ 2023/05)
 - studyed at <a href="https://42seoul.kr/seoul42/main/view" target="_blank">42 seoul</a> (2022/07 ~ 2023/01)
 - cofounded <a href="https://www.sigmate.io/" target="_blank" style="text-decoration: none">Sigmate</a> (2022/07 ~ 2023/05)
